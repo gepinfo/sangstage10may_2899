@@ -1,0 +1,7 @@
+{
+  "name": "sangstage10may",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
